@@ -35,10 +35,6 @@ void setup() {
   Serial.println("");
   Serial.println("Wi-Fi подключено");
 
-   server.on("/", HTTP_GET, [](AsyncWebServerRequest *request){
-    request->send(200, "text/plain", "Данные звука: " + String(analogRead(aP)));
-  });
-
   // Запуск веб-сервера
   server.begin();
 }
