@@ -32,5 +32,5 @@
 - Крылова Анастасия Андреевна
 
 <div id="header" align="center">
-  <img src="https://itmo.ru/file/pages/213/logo_osnovnoy_russkiy_belyy.png" height="200"width="200"/>
+  <img src="https://itmo.ru/file/pages/213/logo_osnovnoy_russkiy_belyy.png" height="200"width="400"/>
 </div>
