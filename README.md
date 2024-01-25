@@ -9,7 +9,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" title="React" alt="React" width="140" height="40"/>&nbsp;
-  <img src="https://www.klipartz.com/en/sticker-png-oenno" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/267838/rgb.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
