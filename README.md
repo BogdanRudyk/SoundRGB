@@ -16,7 +16,7 @@
 - :mailbox:How to reach me: 
 
 
-### :hammer_and_wrench: Наш инструментарий :
+### :hammer_and_wrench: Инструментарий :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" title="React" alt="React" width="140" height="40"/>&nbsp;
