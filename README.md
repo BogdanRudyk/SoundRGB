@@ -21,5 +21,12 @@
   <img src="https://www.svgrepo.com/show/267838/rgb.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>&nbsp;
 
-
 </div>
+
+### 🔝 Наша команда :
+- Чучва Виктор
+- Рудык Богдан
+- Чан Ван Тхай
+
+### 😎 Преподаватель :
+- Крылова Анастасия Андреевна
