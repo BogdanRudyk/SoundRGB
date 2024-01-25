@@ -7,13 +7,11 @@
 
 ### :man_technologist: О проекте :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Взаимодействие с RGB-подсветкой посредством микропроцессора серии ESP32.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Создание веб-сервера для поучения информации о времени нарушения тишины.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: 
+- :zap: Изменение подсветки в соответсвии с зафиксированными звуками.
 
 
 ### :hammer_and_wrench: Инструментарий :
